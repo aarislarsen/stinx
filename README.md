@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/d1Hr2wm.png">
+
 # Stinx
 Stinx - Stuff Indexer - is a lightweight tool to make tools, files, notes etc. tag'able and searchable on your local PC.
 
@@ -30,4 +32,17 @@ After this "header" the actual notes and details follow.
 Stinx lets you search these files either as plain-text search, or search by tags and sorts the results in order of hits.
 Each result comes with a "selection number", and when entered it will open up Explorer to that file, for you to open and start using.
 
+<img src="https://i.imgur.com/IWYlN6x.png">
+
 So lets say you had a tool, an executable or an installer that you've stuck in a folder somewhere. For that file, you'd make an accompanying .stinx file with the same name as the actual file, include an abstract and some relevant tags in the Stinx header. Now you can search for it, and it will put you in the right folder to run the installer or deal with any other files that are associated with that tool.
+
+<img src="https://i.imgur.com/4KmwkBd.png">
+
+## Takeaway
+Are there better solutions for this? Probably
+Does this scale? Who knows
+Did it work for me and solve my problems? So far, yes, yes it does, so maybe it works for someone else, which is why I'm putting it out there.
+
+## Feedback
+Constructive criticism and virtual high-fives are welcome. Haters can direct their input to the nearest wall or woodchipper.
+I'm not a particularly talented programmer, so chances are that some things are broken. It worked on my machine, and I make no promise to fix anything.
